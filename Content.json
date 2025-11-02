@@ -1,0 +1,22 @@
+{
+"home": {
+
+"title": "Welcome to My SPA",
+
+"body": "This is the home page. Enjoy your stay!"
+
+},
+
+"about": {
+"title": "About Us",
+
+"body": "We are passionate developers building cool stuff."
+
+},
+
+“contact": {
+ 
+"title": "Contact Us",
+"body": "Reach us at contact@example.com"
+}
+}
